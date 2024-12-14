@@ -9,3 +9,7 @@ Klasik Pong Oynanışı: Muz şeklinde paddle'larla topu sektirerek oynayın! �
 Oyuncu 1: Yukarı ve aşağı hareket etmek için W ve S tuşlarını kullanın.
 Oyuncu 2: Yukarı ve aşağı hareket etmek için Yukarı Ok ve Aşağı Ok tuşlarını kullanın.
 Amaç, topu rakibin paddle'ından geçirerek gol atmak! ⚽
+
+**Görseller**
+
+![image](https://github.com/user-attachments/assets/933e6bc6-827d-44cd-9930-75f88bce2223)
