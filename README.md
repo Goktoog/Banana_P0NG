@@ -13,3 +13,6 @@ Amaç, topu rakibin paddle'ından geçirerek gol atmak! ⚽
 **Görseller**
 
 ![image](https://github.com/user-attachments/assets/933e6bc6-827d-44cd-9930-75f88bce2223)
+
+
+![gameplay](https://github.com/user-attachments/assets/c0024873-b74f-4dd1-9695-cf37552783bd)
