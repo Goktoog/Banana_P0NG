@@ -16,3 +16,9 @@ Amaç, topu rakibin paddle'ından geçirerek gol atmak! ⚽
 
 
 ![gameplay](https://github.com/user-attachments/assets/c0024873-b74f-4dd1-9695-cf37552783bd)
+
+
+## **Kurulum**
+https://goktugodemis.itch.io/banana-pong
+
+Oyuna erişip kurulumu yapmak için siteyi ziyaret edip oyunumu indirebilirsiniz. Daha sonra sıkıştırılmış rardan çıkartarak, her programda olduğu gibi çalışrırmak için .exe uzantısını açmanız gerekmektedir. Eğer dosya uzantılarını göster ayarınız kapalı ise Banana P0NG isimli ve muz logosuna sahip dosyayı çalıştırmanız gerekecektir :).
